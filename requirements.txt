@@ -1,0 +1,15 @@
+# Основные зависимости
+streamlit==1.29.0
+pandas==2.1.1
+numpy==1.26.1
+matplotlib==3.8.2
+seaborn==0.13.2
+requests==2.31.0
+python-dotenv==1.0.1
+
+# Машинное обучение
+scikit-learn==1.3.2
+imbalanced-learn==0.10.1
+
+# Дополнительно для деплоя
+gunicorn==21.2.0
